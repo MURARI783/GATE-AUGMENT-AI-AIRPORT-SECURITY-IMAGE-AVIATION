@@ -1,0 +1,13 @@
+﻿Project,GateAugment AI
+Experiment date (UTC),2026-11-23T05:54:31.520090+00:00
+Uploaded images,3
+Scans completed,1
+Augmented images,34
+All generated images,34
+Synthetic diffusion images,0
+Techniques,Brightness / contrast; Horizontal flip; Rotation
+
+Model,Accuracy,Precision (macro),Recall (macro),F1 (macro)
+No evaluated model metrics,Train and evaluate both models to populate metrics.
+Detection model,Unavailable / not run
+Generative AI models,No diffusion model run

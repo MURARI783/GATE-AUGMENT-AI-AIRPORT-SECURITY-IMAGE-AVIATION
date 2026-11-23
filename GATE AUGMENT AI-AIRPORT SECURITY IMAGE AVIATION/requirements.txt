@@ -1,0 +1,18 @@
+streamlit>=1.38,<2.0
+numpy>=1.26,<3.0
+opencv-python-headless>=4.9,<5.0
+albumentations>=1.4,<3.0
+Pillow>=10.0
+matplotlib>=3.8
+scikit-learn>=1.4
+pandas>=2.1
+reportlab>=4.0
+tensorflow>=2.16,<3.0
+
+# Optional custom YOLO detection (install separately; weights are NOT bundled):
+# ultralytics
+# Optional diffusion support (install separately; PyTorch wheels depend on your hardware):
+# torch
+# diffusers
+# transformers
+# accelerate

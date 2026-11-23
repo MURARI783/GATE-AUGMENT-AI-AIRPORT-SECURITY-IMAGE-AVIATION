@@ -1,0 +1,568 @@
+{
+  "project_name": "GateAugment AI",
+  "generated_at": "2026-11-23T05:54:31.518082+00:00",
+  "uploaded_images": [
+    {
+      "name": "images.jpg",
+      "size_bytes": 21565,
+      "width": 276,
+      "height": 183,
+      "channels": 3,
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\assets\\uploads\\379ed7b9a07e_images.jpg",
+      "uploaded_at": "2026-11-21T11:09:01.101991+00:00",
+      "format": "JPG",
+      "bboxes": [],
+      "bbox_labels": [],
+      "annotations_present": false
+    },
+    {
+      "name": "images.jpg",
+      "size_bytes": 56542,
+      "width": 547,
+      "height": 365,
+      "channels": 3,
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\assets\\uploads\\f0136bf7a31a_images.jpg",
+      "uploaded_at": "2026-11-23T05:51:14.114249+00:00",
+      "format": "JPG",
+      "bboxes": [],
+      "bbox_labels": [],
+      "annotations_present": false
+    },
+    {
+      "name": "images 234.jpg",
+      "size_bytes": 24202,
+      "width": 399,
+      "height": 313,
+      "channels": 3,
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\assets\\uploads\\635bf4393378_images_234.jpg",
+      "uploaded_at": "2026-11-23T05:53:21.615618+00:00",
+      "format": "JPG",
+      "bboxes": [],
+      "bbox_labels": [],
+      "annotations_present": false
+    }
+  ],
+  "total_uploaded_images": 3,
+  "total_augmented_images": 34,
+  "total_synthetic_images": 0,
+  "total_scans": 1,
+  "scan_history": [
+    {
+      "id": 4,
+      "created_at": "2026-11-21T11:11:53.665000+00:00",
+      "source": "image",
+      "filename": "images.jpg",
+      "status": "Captured",
+      "processing_ms": 0.0,
+      "width": 276,
+      "height": 183,
+      "operation": "Capture frame (unprocessed)",
+      "result_path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\scans\\scan_51955205e368.png",
+      "metadata": {
+        "frame_index": 0
+      }
+    }
+  ],
+  "dataset": "Default dataset",
+  "experiment_id": null,
+  "detection_model": "Unavailable / not run",
+  "generative_ai_models": [],
+  "trained_model_status": false,
+  "generated_images": [
+    {
+      "name": "images_jpg_20261121_163926_499721.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_499721.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.499721+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_516848.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_516848.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.521415+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_529808.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_529808.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.529808+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_546586.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_546586.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.549061+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_563025.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_563025.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.564404+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_578623.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_578623.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.584149+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_596274.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_596274.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.598660+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_611178.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_611178.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.616728+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163926_629646.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163926_629646.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:26.635899+00:00"
+    },
+    {
+      "name": "images_jpg_20261121_163938_950835.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261121_163938_950835.png",
+      "kind": "traditional_fallback",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-21T11:09:38.953874+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_110544_631349.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_110544_631349.png",
+      "kind": "traditional_fallback",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:35:44.637860+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_773820.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_773820.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.773820+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_781828.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_781828.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.788930+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_797420.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_797420.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.805499+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_813873.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_813873.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.824037+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_832767.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_832767.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.832767+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_842541.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_842541.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.847506+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_858000.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_858000.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.864028+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_874191.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_874191.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.874191+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111802_880616.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111802_880616.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:02.888633+00:00"
+    },
+    {
+      "name": "images_jpg_20261123_111827_836907.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_jpg_20261123_111827_836907.png",
+      "kind": "traditional_fallback",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "379ed7b9a07e7c29d8c27e04c0d36c765ced13a242cc44887a87cf780bf48d62",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:48:27.851368+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_071290.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_071290.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.081830+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_096090.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_096090.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.104247+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_112308.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_112308.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.122495+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_137997.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_137997.png",
+      "kind": "traditional",
+      "techniques": [
+        "Rotation"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.146353+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_155150.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_155150.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.164029+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_172676.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_172676.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.178313+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_187844.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_187844.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.200841+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_205146.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_205146.png",
+      "kind": "traditional",
+      "techniques": [
+        "Horizontal flip"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.210947+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_219005.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_219005.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.237567+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_246605.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_246605.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.252492+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_260914.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_260914.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.269105+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112352_277945.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112352_277945.png",
+      "kind": "traditional",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:52.294082+00:00"
+    },
+    {
+      "name": "images_234_jpg_20261123_112359_617899.png",
+      "path": "C:\\Users\\rvspc\\OneDrive\\Desktop\\GATE AUGMENT AI-AIRPORT SECURITY IMAGE AVIATION\\generated\\images_234_jpg_20261123_112359_617899.png",
+      "kind": "traditional_fallback",
+      "techniques": [
+        "Brightness / contrast"
+      ],
+      "source_signature": "635bf439337827a8f1cd8875eb9394bfcada844c9c63108107a0e348fb8caa46",
+      "bboxes": null,
+      "bbox_labels": null,
+      "annotations_present": false,
+      "created_at": "2026-11-23T05:53:59.630485+00:00"
+    }
+  ],
+  "augmentation_techniques": [
+    "Brightness / contrast",
+    "Horizontal flip",
+    "Rotation"
+  ],
+  "model_evaluation": null,
+  "training_history": null,
+  "model_details": null,
+  "model_comparison": null,
+  "activities": [
+    {
+      "time": "2026-11-23 11:23",
+      "event": "Diffusion unavailable; used labeled traditional fallback"
+    },
+    {
+      "time": "2026-11-23 11:23",
+      "event": "Generated 12 traditional augmentation(s)"
+    },
+    {
+      "time": "2026-11-23 11:23",
+      "event": "Uploaded images 234.jpg"
+    },
+    {
+      "time": "2026-11-23 11:21",
+      "event": "Uploaded images.jpg"
+    },
+    {
+      "time": "2026-11-23 11:18",
+      "event": "Diffusion unavailable; used labeled traditional fallback"
+    },
+    {
+      "time": "2026-11-23 11:18",
+      "event": "Generated 9 traditional augmentation(s)"
+    },
+    {
+      "time": "2026-11-23 11:05",
+      "event": "Diffusion unavailable; used labeled traditional fallback"
+    },
+    {
+      "time": "2026-11-21 16:39",
+      "event": "Diffusion unavailable; used labeled traditional fallback"
+    },
+    {
+      "time": "2026-11-21 16:39",
+      "event": "Generated 9 traditional augmentation(s)"
+    },
+    {
+      "time": "2026-11-21 16:39",
+      "event": "Uploaded images.jpg"
+    }
+  ],
+  "experiments": [],
+  "dataset_note": "Metrics are omitted until actual models have been trained and evaluated on the configured test set."
+}
